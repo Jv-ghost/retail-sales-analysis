@@ -129,7 +129,7 @@ Nesse conjunto de dados, variáveis comportamentais, como **frequência e histó
 
 ### Evolução mensal do faturamento
 
-![Evolução mensal do faturamento](images/evolucao_faturamento_mensal.png)
+![Evolução mensal do faturamento](images/evolucao_fat_mensal.png)
 
 ---
 
@@ -141,7 +141,7 @@ Nesse conjunto de dados, variáveis comportamentais, como **frequência e histó
 
 ### Distribuição da frequência de compras
 
-![Distribuição da frequência de compras](images/frequencia_compras_clientes.png)
+![Distribuição da frequência de compras](images/freq_compras_clientes.png)
 
 ---
 
